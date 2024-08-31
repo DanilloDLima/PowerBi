@@ -1,5 +1,8 @@
-#Curso de Power Bi - Data Science
+# Curso de Power BI - Data Science
 
-https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science
+[Curso na Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)
 
-Total de 20 Capitulos do Básico ao Intermediário
+## Capítulo 02
+![Capítulo 02](02/images/capitulo-02.jpg)
+
+Total de 20 Capítulos do Básico ao Intermediário
