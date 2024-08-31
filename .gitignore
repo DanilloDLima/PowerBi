@@ -1,3 +1,9 @@
 #lista de pastas a ser ignoradas
+/powerbi/.tmp.drivedownload
+/powerbi/.tmp.driveupload
 /powerbi/.tmp.drivedownload/
 /powerbi/.tmp.driveupload/
+.tmp.driveupload
+.tmp.drivedownload
+.tmp.driveupload/
+.tmp.drivedownload/
