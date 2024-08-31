@@ -4,7 +4,7 @@
 
 
 # TAREFAS CONCLUIDAS 
-## Capítulo 02 - [x]
+## Capítulo 02 `- [x]`
 Dashboard Criado
 ![Capítulo 02](02/images/capitulo-02.jpg)
 
