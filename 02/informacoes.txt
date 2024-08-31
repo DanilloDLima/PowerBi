@@ -1,0 +1,3 @@
+1 informacao -> grafico de cartao
+2 informacoes e poucas categorias> grafico de pizza
+3 informacoes -> grafico de barras empilhadas
